@@ -31,6 +31,6 @@ database_config.ini
 
 # Ignore virtual environment files (Python)
 venv/
-
+.env
 # Ignore generated files or directories
 output/
